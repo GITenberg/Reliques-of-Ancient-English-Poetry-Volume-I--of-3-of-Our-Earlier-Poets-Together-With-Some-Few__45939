@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/205
     wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45939#Reliques-of-Ancient-English-Poetry-Volume-I--of-3-of-Our-Earlier-Poets-Together-With-Some-Few_
 gutenberg_issued: '2014-06-11'
 gutenberg_type: Text
 identifiers:
